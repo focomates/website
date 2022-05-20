@@ -1,0 +1,26 @@
+{
+  "name": "focomate-website",
+  "version": "1.0.0",
+  "description": "The website of focomate.com",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/focomates/website.git"
+  },
+  "keywords": [
+    "website"
+  ],
+  "author": "Visakh Vijayan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/focomates/website/issues"
+  },
+  "homepage": "https://github.com/focomates/website#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
